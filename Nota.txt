@@ -1,0 +1,43 @@
+Zageth AO - Ambientado a IAO (by TheFranK)
+
+----------------------------------------------------------------
+
+Programacion estilo IAO
+
+1 - Boveda estilo IAO.
+2 - Barra de exp estilo IAO.
+3 - Al llegar al nivel maximo en la exp dise "Nivel Maximo" estilo IAO. 
+4 - Visibilidad de Niveles estilo IAO.
+5 - Nombre del mapa en main.
+6 - Anti trucheo de frags estilo IAO.
+7 - Letras suben desde la cabeza estilo IAO.
+8 - Estado del usuario estilo IAO.
+9 - Formulario para enviar gm estilo IAO.
+10 - Minimapa estilo IAO.
+11 - Limpiar mundo estilo IAO.
+12 - Macro hechizos estilo IAO.
+13 - Exp y oro configurable desde server.ini estilo IAO.
+14 - Game masters con color de nick estilo IAO.
+15 - Sistema de evento estilo IAO.
+16 - label de fuerza y de agilidad estilo IAO.
+17 - Monturas de caballo.
+18 - Limpiar mundo estilo IAO.
+19 - Color de letras al tirar hechizos estilo IAO.
+20 - Consola transparente estilo IAO.
+
+Programacion no estilo IAO.
+
+21 - Clickias un npc y te aparece un formulario con la informacion del npc.
+22 - Mover items del inventario con el mouse (Apretas el click derecho y lo moves).
+23 - Estado del msn.
+24 - Sacar fotos en bmp o jpg configurable desde opciones.
+25 - Agregado comando /ranking.
+26 - Global (al escribir pones +tumensaje).
+27 - Fx al apuñalar.
+
+Graficacion
+27 - Interfases estilo IAO.
+28 - Npcs estilo IAO.
+29 - Items estilo IAO.
+
+http://www.gs-zone.org/ft42743_liberacion_zageth_ao_ambientado_a_iao.html
